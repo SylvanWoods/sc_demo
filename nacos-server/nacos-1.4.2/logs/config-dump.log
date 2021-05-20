@@ -1,0 +1,26 @@
+2021-05-20 08:48:32,111 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:52:35,604 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:53:20,442 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:54:58,235 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:55:08,509 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:55:16,125 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:55:34,549 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:55:34,630 WARN [dump-ignore] ignore to save cache file. groupKey=example.properties+DEFAULT_GROUP, md5=25a822367cd73c79acc56da3c73fa07e, lastModifiedOld=1621472116125, lastModifiedNew=1621472134524
+
+2021-05-20 08:56:50,022 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:59:05,617 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:59:19,223 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 08:59:29,340 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+
+2021-05-20 09:04:57,902 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
+

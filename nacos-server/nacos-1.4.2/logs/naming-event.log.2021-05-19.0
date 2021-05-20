@@ -1,0 +1,50 @@
+2021-05-19 17:24:56,857 INFO DEFAULT_GROUP@@example {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-19 17:24:56,863 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 127.0.0.1:8086_true,
+
+2021-05-19 17:25:11,513 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:8086@DEFAULT@DEFAULT_GROUP@@example, region: unknown, msg: client timeout after 15000, last beat: 1621416296424
+
+2021-05-19 17:25:26,734 INFO DEFAULT_GROUP@@example {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-05-19 17:25:26,734 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 
+
+2021-05-19 17:26:54,438 INFO DEFAULT_GROUP@@example {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-19 17:26:54,438 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 127.0.0.1:8086_true,
+
+2021-05-19 17:27:11,873 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:8086@DEFAULT@DEFAULT_GROUP@@example, region: unknown, msg: client timeout after 15000, last beat: 1621416414437
+
+2021-05-19 17:27:26,886 INFO DEFAULT_GROUP@@example {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-05-19 17:27:26,886 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 
+
+2021-05-19 17:28:05,573 INFO DEFAULT_GROUP@@example {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-19 17:28:05,573 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 127.0.0.1:8086_true,
+
+2021-05-19 17:28:20,600 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:8086@DEFAULT@DEFAULT_GROUP@@example, region: unknown, msg: client timeout after 15000, last beat: 1621416485571
+
+2021-05-19 17:28:35,646 INFO DEFAULT_GROUP@@example {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-05-19 17:28:35,646 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 
+
+2021-05-19 17:36:58,898 INFO DEFAULT_GROUP@@example {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-19 17:36:58,898 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 127.0.0.1:8086_true,
+
+2021-05-19 17:37:13,920 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:8086@DEFAULT@DEFAULT_GROUP@@example, region: unknown, msg: client timeout after 15000, last beat: 1621417018897
+
+2021-05-19 17:37:28,941 INFO DEFAULT_GROUP@@example {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-05-19 17:37:28,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 
+
+2021-05-19 17:37:59,961 INFO DEFAULT_GROUP@@example {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-19 17:37:59,961 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 127.0.0.1:8086_true,
+
+2021-05-19 17:38:14,982 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:8086@DEFAULT@DEFAULT_GROUP@@example, region: unknown, msg: client timeout after 15000, last beat: 1621417079960
+
+2021-05-19 17:38:30,026 INFO DEFAULT_GROUP@@example {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:8086:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-05-19 17:38:30,026 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@example, ips: 
+

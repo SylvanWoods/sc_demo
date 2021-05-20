@@ -1,0 +1,28 @@
+2021-05-20 09:07:44,735 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+
+2021-05-20 09:08:50,363 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2021-05-20 09:12:32,028 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2021-05-20 09:12:32,099 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 192.168.9.153:63828, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,63828,43173040169400
+
+2021-05-20 09:12:32,099 INFO send udp packet: 192.168.9.153,63828,43173040169400
+
+2021-05-20 09:12:32,105 INFO received ack: {"type": "push-ack", "lastRefTime":"43173040169400", "data":""} from: 192.168.9.153:63828, cost: 6 ms, unacked: 0, total push: 1
+
+2021-05-20 13:30:07,859 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2021-05-20 13:30:08,662 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+
+2021-05-20 13:30:09,757 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+
+2021-05-20 13:30:10,800 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+
+2021-05-20 15:16:05,099 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+
+2021-05-20 15:16:10,098 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2021-05-20 15:16:20,186 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+
+2021-05-20 15:16:25,134 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
