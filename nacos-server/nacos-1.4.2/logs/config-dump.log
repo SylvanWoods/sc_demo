@@ -24,3 +24,5 @@
 
 2021-05-20 09:04:57,902 INFO [dump-task] add task. groupKey=example.properties+DEFAULT_GROUP, taskKey=example.properties+DEFAULT_GROUP++false+null
 
+2021-05-20 15:53:44,462 INFO [dump-all-ok] example.properties+DEFAULT_GROUP, 1621472698000, length=18, md5=25a822367cd73c79acc56da3c73fa07e
+
