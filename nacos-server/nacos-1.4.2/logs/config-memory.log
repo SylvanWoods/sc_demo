@@ -3226,3 +3226,33 @@
 
 2021-05-21 09:48:32,429 INFO [long-pulling] client count 1
 
+2021-05-21 09:48:41,397 INFO groupCount = 1, subscriberClientCount = 0, subscriberCount = 0
+
+2021-05-21 09:48:41,397 INFO toNotifyTaskSize = 0
+
+2021-05-21 09:48:42,444 INFO [long-pulling] client count 1
+
+2021-05-21 09:48:51,400 INFO toNotifyTaskSize = 0
+
+2021-05-21 09:48:51,400 INFO groupCount = 1, subscriberClientCount = 0, subscriberCount = 0
+
+2021-05-21 09:48:52,445 INFO [long-pulling] client count 1
+
+2021-05-21 09:49:01,408 INFO toNotifyTaskSize = 0
+
+2021-05-21 09:49:01,408 INFO groupCount = 1, subscriberClientCount = 0, subscriberCount = 0
+
+2021-05-21 09:49:02,452 INFO [long-pulling] client count 1
+
+2021-05-21 09:49:11,420 INFO groupCount = 1, subscriberClientCount = 0, subscriberCount = 0
+
+2021-05-21 09:49:11,420 INFO toNotifyTaskSize = 0
+
+2021-05-21 09:49:12,466 INFO [long-pulling] client count 1
+
+2021-05-21 09:49:21,433 INFO groupCount = 1, subscriberClientCount = 0, subscriberCount = 0
+
+2021-05-21 09:49:21,433 INFO toNotifyTaskSize = 0
+
+2021-05-21 09:49:22,480 INFO [long-pulling] client count 1
+
