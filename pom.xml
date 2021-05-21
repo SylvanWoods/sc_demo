@@ -23,6 +23,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
         <spring.cloud-version>Hoxton.SR8</spring.cloud-version>
+        <spring.cloud.alibaba-version>2.1.0.RELEASE</spring.cloud.alibaba-version>
     </properties>
 
     <modules>
@@ -30,6 +31,7 @@
         <module>nacos-spring-cloud-provider-example</module>
         <module>nacos-spring-cloud-consumer-example</module>
         <module>gateway</module>
+        <module>sentinel</module>
     </modules>
 
 
@@ -46,6 +48,14 @@
     </dependencyManagement>
 
     <dependencies>
+
+<!--        <dependency>-->
+<!--            <groupId>com.alibaba.cloud</groupId>-->
+<!--            <artifactId>spring-cloud-alibaba-dependencies</artifactId>-->
+<!--            <version>${spring.cloud.alibaba-version}</version>-->
+<!--            <type>pom</type>-->
+<!--            <scope>import</scope>-->
+<!--        </dependency>-->
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>

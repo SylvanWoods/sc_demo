@@ -1,66 +1,126 @@
-2021-05-20 09:07:44,735 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+2021-05-21 08:18:53,149 INFO DEFAULT_GROUP@@service-9090 is changed, add it to push queue.
 
-2021-05-20 09:08:50,363 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 08:18:55,265 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
 
-2021-05-20 09:12:32,028 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 08:18:58,302 INFO DEFAULT_GROUP@@service-9090 is changed, add it to push queue.
 
-2021-05-20 09:12:32,099 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 192.168.9.153:63828, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,63828,43173040169400
+2021-05-21 08:18:58,305 INFO serviceName: DEFAULT_GROUP@@service-9090 changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,126359336041300
 
-2021-05-20 09:12:32,099 INFO send udp packet: 192.168.9.153,63828,43173040169400
+2021-05-21 08:18:58,306 INFO send udp packet: 192.168.9.153,55172,126359336041300
 
-2021-05-20 09:12:32,105 INFO received ack: {"type": "push-ack", "lastRefTime":"43173040169400", "data":""} from: 192.168.9.153:63828, cost: 6 ms, unacked: 0, total push: 1
+2021-05-21 08:18:58,309 INFO received ack: {"type": "push-ack", "lastRefTime":"126359336041300", "data":""} from: 192.168.9.153:55172, cost: 3 ms, unacked: 0, total push: 1
 
-2021-05-20 13:30:07,859 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:09:53,217 INFO DEFAULT_GROUP@@service-9090 is changed, add it to push queue.
 
-2021-05-20 13:30:08,662 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+2021-05-21 09:09:53,220 INFO serviceName: DEFAULT_GROUP@@service-9090 changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,129414251305900
 
-2021-05-20 13:30:09,757 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+2021-05-21 09:09:53,220 INFO send udp packet: 192.168.9.153,55172,129414251305900
 
-2021-05-20 13:30:10,800 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+2021-05-21 09:09:53,253 INFO received ack: {"type": "push-ack", "lastRefTime":"129414251305900", "data":""} from: 192.168.9.153:55172, cost: 33 ms, unacked: 0, total push: 2
 
-2021-05-20 15:16:05,099 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+2021-05-21 09:25:28,314 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
 
-2021-05-20 15:16:10,098 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:31:58,924 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
 
-2021-05-20 15:16:20,186 INFO DEFAULT_GROUP@@service-consumer is changed, add it to push queue.
+2021-05-21 09:31:58,929 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,130739958098500
 
-2021-05-20 15:16:25,134 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:31:58,929 INFO send udp packet: 192.168.9.153,55172,130739958098500
 
-2021-05-20 15:56:25,930 INFO DEFAULT_GROUP@@service-gateway is changed, add it to push queue.
+2021-05-21 09:31:58,940 INFO received ack: {"type": "push-ack", "lastRefTime":"130739958098500", "data":""} from: 192.168.9.153:55172, cost: 11 ms, unacked: 0, total push: 3
 
-2021-05-20 16:18:10,035 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:32:05,860 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
 
-2021-05-20 16:21:16,430 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:32:05,862 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,130746893829500
 
-2021-05-20 16:21:27,971 INFO DEFAULT_GROUP@@service-gateway is changed, add it to push queue.
+2021-05-21 09:32:05,862 INFO send udp packet: 192.168.9.153,55172,130746893829500
 
-2021-05-20 16:21:43,304 INFO DEFAULT_GROUP@@service-gateway is changed, add it to push queue.
+2021-05-21 09:32:05,867 INFO received ack: {"type": "push-ack", "lastRefTime":"130746893829500", "data":""} from: 192.168.9.153:55172, cost: 5 ms, unacked: 0, total push: 4
 
-2021-05-20 16:31:08,181 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:32:10,850 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
 
-2021-05-20 16:31:26,348 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:32:10,851 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,130751884872000
 
-2021-05-20 16:31:32,732 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:32:10,852 INFO send udp packet: 192.168.9.153,55172,130751884872000
 
-2021-05-20 16:31:37,671 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:32:10,859 INFO received ack: {"type": "push-ack", "lastRefTime":"130751884872000", "data":""} from: 192.168.9.153:55172, cost: 7 ms, unacked: 0, total push: 5
 
-2021-05-20 16:47:52,956 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+2021-05-21 09:36:17,567 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
 
-2021-05-20 16:57:01,494 INFO DEFAULT_GROUP@@service-9090 is changed, add it to push queue.
+2021-05-21 09:36:17,568 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,130998601286000
 
-2021-05-20 16:57:21,533 INFO DEFAULT_GROUP@@service-9090 is changed, add it to push queue.
+2021-05-21 09:36:17,568 INFO send udp packet: 192.168.9.153,55172,130998601286000
 
-2021-05-20 16:57:36,567 INFO DEFAULT_GROUP@@service-9090 is changed, add it to push queue.
+2021-05-21 09:36:17,572 INFO received ack: {"type": "push-ack", "lastRefTime":"130998601286000", "data":""} from: 192.168.9.153:55172, cost: 4 ms, unacked: 0, total push: 6
 
-2021-05-20 16:59:43,933 INFO DEFAULT_GROUP@@service-9090 is changed, add it to push queue.
+2021-05-21 09:37:48,348 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
 
-2021-05-20 17:19:54,950 WARN client: 192.168.9.153:56910 already associated with key serviceName: DEFAULT_GROUP@@service-9090, clusters: , address: /192.168.9.153:56910, agent: Nacos-Java-Client:v1.2.1
+2021-05-21 09:37:48,352 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131089382861200
 
-2021-05-20 17:20:27,126 INFO DEFAULT_GROUP@@service-9090 is changed, add it to push queue.
+2021-05-21 09:37:48,352 INFO send udp packet: 192.168.9.153,55172,131089382861200
 
-2021-05-20 17:20:27,243 INFO serviceName: DEFAULT_GROUP@@service-9090 changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,72448148621600
+2021-05-21 09:37:48,357 INFO received ack: {"type": "push-ack", "lastRefTime":"131089382861200", "data":""} from: 192.168.9.153:55172, cost: 5 ms, unacked: 0, total push: 7
 
-2021-05-20 17:20:27,244 INFO send udp packet: 192.168.9.153,55172,72448148621600
+2021-05-21 09:39:29,924 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
 
-2021-05-20 17:20:27,264 INFO received ack: {"type": "push-ack", "lastRefTime":"72448148621600", "data":""} from: 192.168.9.153:55172, cost: 20 ms, unacked: 0, total push: 1
+2021-05-21 09:39:29,925 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131190958230099
+
+2021-05-21 09:39:29,925 INFO send udp packet: 192.168.9.153,55172,131190958230099
+
+2021-05-21 09:39:29,932 INFO received ack: {"type": "push-ack", "lastRefTime":"131190958230099", "data":""} from: 192.168.9.153:55172, cost: 7 ms, unacked: 0, total push: 8
+
+2021-05-21 09:40:16,510 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
+
+2021-05-21 09:40:16,511 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131237543992200
+
+2021-05-21 09:40:16,511 INFO send udp packet: 192.168.9.153,55172,131237543992200
+
+2021-05-21 09:40:16,513 INFO received ack: {"type": "push-ack", "lastRefTime":"131237543992200", "data":""} from: 192.168.9.153:55172, cost: 2 ms, unacked: 0, total push: 9
+
+2021-05-21 09:44:10,217 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
+
+2021-05-21 09:44:10,218 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131471251190799
+
+2021-05-21 09:44:10,218 INFO send udp packet: 192.168.9.153,55172,131471251190799
+
+2021-05-21 09:44:10,221 INFO received ack: {"type": "push-ack", "lastRefTime":"131471251190799", "data":""} from: 192.168.9.153:55172, cost: 3 ms, unacked: 0, total push: 10
+
+2021-05-21 09:44:25,274 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
+
+2021-05-21 09:44:25,276 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131486307839800
+
+2021-05-21 09:44:25,276 INFO send udp packet: 192.168.9.153,55172,131486307839800
+
+2021-05-21 09:44:25,296 INFO received ack: {"type": "push-ack", "lastRefTime":"131486307839800", "data":""} from: 192.168.9.153:55172, cost: 20 ms, unacked: 0, total push: 11
+
+2021-05-21 09:44:37,837 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
+
+2021-05-21 09:44:37,837 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131498870460800
+
+2021-05-21 09:44:37,837 INFO send udp packet: 192.168.9.153,55172,131498870460800
+
+2021-05-21 09:44:37,839 INFO received ack: {"type": "push-ack", "lastRefTime":"131498870460800", "data":""} from: 192.168.9.153:55172, cost: 2 ms, unacked: 0, total push: 12
+
+2021-05-21 09:46:30,444 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
+
+2021-05-21 09:46:30,447 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131611480358900
+
+2021-05-21 09:46:30,447 INFO send udp packet: 192.168.9.153,55172,131611480358900
+
+2021-05-21 09:46:30,450 INFO received ack: {"type": "push-ack", "lastRefTime":"131611480358900", "data":""} from: 192.168.9.153:55172, cost: 3 ms, unacked: 0, total push: 13
+
+2021-05-21 09:46:35,270 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
+
+2021-05-21 09:46:35,271 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131616303815100
+
+2021-05-21 09:46:35,272 INFO send udp packet: 192.168.9.153,55172,131616303815100
+
+2021-05-21 09:46:35,274 INFO received ack: {"type": "push-ack", "lastRefTime":"131616303815100", "data":""} from: 192.168.9.153:55172, cost: 2 ms, unacked: 0, total push: 14
+
+2021-05-21 09:46:40,252 INFO DEFAULT_GROUP@@sentinel is changed, add it to push queue.
+
+2021-05-21 09:46:40,252 INFO serviceName: DEFAULT_GROUP@@sentinel changed, schedule push for: 192.168.9.153:55172, agent: Nacos-Java-Client:v1.2.1, key: 192.168.9.153,55172,131621285390000
+
+2021-05-21 09:46:40,253 INFO send udp packet: 192.168.9.153,55172,131621285390000
+
+2021-05-21 09:46:40,256 INFO received ack: {"type": "push-ack", "lastRefTime":"131621285390000", "data":""} from: 192.168.9.153:55172, cost: 3 ms, unacked: 0, total push: 15
 

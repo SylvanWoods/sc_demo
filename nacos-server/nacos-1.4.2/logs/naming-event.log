@@ -1,80 +1,62 @@
-2021-05-20 09:07:43,723 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2021-05-21 08:18:52,133 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:9098@DEFAULT@DEFAULT_GROUP@@service-9090, region: unknown, msg: client timeout after 15000, last beat: 1621503558935
 
-2021-05-20 09:07:43,727 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.9.153:8087_true,
+2021-05-21 08:18:52,133 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:9090@DEFAULT@DEFAULT_GROUP@@service-9090, region: unknown, msg: client timeout after 15000, last beat: 1621503558778
 
-2021-05-20 09:08:49,351 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2021-05-21 08:18:52,133 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:8089@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1621503559136
 
-2021-05-20 09:08:49,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.9.153:8089_true,
+2021-05-21 08:18:52,146 INFO service: DEFAULT_GROUP@@service-9090 {POS} {IP-ENABLED} valid: 192.168.9.153:9090@DEFAULT, region: unknown, msg: client beat ok
 
-2021-05-20 09:12:31,013 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.9.153:8089_true,
+2021-05-21 08:18:52,272 INFO service: DEFAULT_GROUP@@service-9090 {POS} {IP-ENABLED} valid: 192.168.9.153:9098@DEFAULT, region: unknown, msg: client beat ok
 
-2021-05-20 13:30:06,844 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:8089@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1621486972892
+2021-05-21 08:18:52,803 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.9.153:8089:unknown:DEFAULT_1.0_false_false_DEFAULT]
 
-2021-05-20 13:30:06,853 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:8087@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1621486975382
+2021-05-21 08:18:52,803 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 
 
-2021-05-20 13:30:07,277 INFO service: DEFAULT_GROUP@@service-provider {POS} {IP-ENABLED} valid: 192.168.9.153:8089@DEFAULT, region: unknown, msg: client beat ok
+2021-05-21 08:18:53,056 INFO DEFAULT_GROUP@@service-9090 {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.9.153:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2021-05-20 13:30:08,749 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.9.153:8087:unknown:DEFAULT_1.0_false_false_DEFAULT]
+2021-05-21 08:18:53,056 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-9090, ips: 192.168.9.153:9090_true,
 
-2021-05-20 13:30:08,749 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 
+2021-05-21 08:18:53,212 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2021-05-20 13:30:09,794 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:8087:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2021-05-21 08:18:53,213 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.9.153:8089_true,
 
-2021-05-20 13:30:09,795 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.9.153:8087_true,
+2021-05-21 08:18:57,296 INFO DEFAULT_GROUP@@service-9090 {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2021-05-20 15:16:04,094 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:8087@DEFAULT@DEFAULT_GROUP@@service-consumer, region: unknown, msg: client timeout after 15000, last beat: 1621494948962
+2021-05-21 08:18:57,296 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-9090, ips: 192.168.9.153:9098_true,192.168.9.153:9090_true,
 
-2021-05-20 15:16:09,095 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:8089@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1621494951381
+2021-05-21 09:09:52,212 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-9090, ips: 192.168.9.153:9098_true,192.168.9.153:9090_true,
 
-2021-05-20 15:16:19,172 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.9.153:8087:unknown:DEFAULT_1.0_false_false_DEFAULT]
+2021-05-21 09:25:27,312 INFO DEFAULT_GROUP@@sentinel {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:9093:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2021-05-20 15:16:19,172 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 
+2021-05-21 09:25:27,312 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 192.168.9.153:9093_true,
 
-2021-05-20 15:16:24,124 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.9.153:8089:unknown:DEFAULT_1.0_false_false_DEFAULT]
+2021-05-21 09:31:57,918 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:9093@DEFAULT@DEFAULT_GROUP@@sentinel, region: unknown, msg: client timeout after 15000, last beat: 1621560698090
 
-2021-05-20 15:16:24,124 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 
+2021-05-21 09:32:04,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 192.168.9.153:9093_false,
 
-2021-05-20 15:56:24,927 INFO DEFAULT_GROUP@@service-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2021-05-21 09:32:09,849 INFO service: DEFAULT_GROUP@@sentinel {POS} {IP-ENABLED} valid: 192.168.9.153:9093@DEFAULT, region: unknown, msg: client beat ok
 
-2021-05-20 15:56:24,930 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-gateway, ips: 192.168.9.153:8091_true,
+2021-05-21 09:36:16,553 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 192.168.9.153:9093_true,
 
-2021-05-20 16:18:09,024 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:8089:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2021-05-21 09:37:47,341 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 192.168.9.153:9093_true,
 
-2021-05-20 16:18:09,024 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.9.153:8089_true,
+2021-05-21 09:39:28,912 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 192.168.9.153:9093_true,
 
-2021-05-20 16:21:15,415 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.9.153:8089_true,
+2021-05-21 09:40:15,501 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 192.168.9.153:9093_true,
 
-2021-05-20 16:21:26,959 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:8091@DEFAULT@DEFAULT_GROUP@@service-gateway, region: unknown, msg: client timeout after 15000, last beat: 1621498868232
+2021-05-21 09:44:09,206 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:9093@DEFAULT@DEFAULT_GROUP@@sentinel, region: unknown, msg: client timeout after 15000, last beat: 1621561430743
 
-2021-05-20 16:21:42,303 INFO DEFAULT_GROUP@@service-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.9.153:8091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+2021-05-21 09:44:24,259 INFO DEFAULT_GROUP@@sentinel {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.9.153:9093:unknown:DEFAULT_1.0_false_false_DEFAULT]
 
-2021-05-20 16:21:42,303 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-gateway, ips: 
+2021-05-21 09:44:24,259 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 
 
-2021-05-20 16:31:07,174 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.9.153:8089_true,
+2021-05-21 09:44:36,829 INFO DEFAULT_GROUP@@sentinel {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:9093:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2021-05-20 16:31:25,342 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:8089@DEFAULT@DEFAULT_GROUP@@service-provider, region: unknown, msg: client timeout after 15000, last beat: 1621499467174
+2021-05-21 09:44:36,829 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 192.168.9.153:9093_true,
 
-2021-05-20 16:31:31,722 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.9.153:8089_false,
+2021-05-21 09:46:29,433 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:9093@DEFAULT@DEFAULT_GROUP@@sentinel, region: unknown, msg: client timeout after 15000, last beat: 1621561571960
 
-2021-05-20 16:31:36,668 INFO service: DEFAULT_GROUP@@service-provider {POS} {IP-ENABLED} valid: 192.168.9.153:8089@DEFAULT, region: unknown, msg: client beat ok
+2021-05-21 09:46:34,256 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sentinel, ips: 192.168.9.153:9093_false,
 
-2021-05-20 16:47:51,954 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.9.153:8089_true,
-
-2021-05-20 16:57:00,481 INFO DEFAULT_GROUP@@service-9090 {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
-
-2021-05-20 16:57:00,481 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-9090, ips: 192.168.9.153:9090_true,
-
-2021-05-20 16:57:20,524 INFO {POS} {IP-DISABLED} valid: 192.168.9.153:9090@DEFAULT@DEFAULT_GROUP@@service-9090, region: unknown, msg: client timeout after 15000, last beat: 1621501025405
-
-2021-05-20 16:57:35,563 INFO DEFAULT_GROUP@@service-9090 {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.9.153:9090:unknown:DEFAULT_1.0_false_false_DEFAULT]
-
-2021-05-20 16:57:35,563 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-9090, ips: 
-
-2021-05-20 16:59:42,922 INFO DEFAULT_GROUP@@service-9090 {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
-
-2021-05-20 16:59:42,922 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-9090, ips: 192.168.9.153:9090_true,
-
-2021-05-20 17:20:26,121 INFO DEFAULT_GROUP@@service-9090 {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.9.153:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
-
-2021-05-20 17:20:26,121 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-9090, ips: 192.168.9.153:9098_true,192.168.9.153:9090_true,
+2021-05-21 09:46:39,250 INFO service: DEFAULT_GROUP@@sentinel {POS} {IP-ENABLED} valid: 192.168.9.153:9093@DEFAULT, region: unknown, msg: client beat ok
 
